@@ -1,2 +1,2 @@
 # libft
-Custom library with useful functions
+Custom library that copies some useful systme functions
